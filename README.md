@@ -14,7 +14,7 @@
 
 ## Updates from the base system
 * New observation operators for satellite atmospheric motion vectors proposed by [Tsukada & Horinouchi (2020)](https://doi.org/10.1029/2020GL087637), [Horinouchi et al. (2023)](https://doi.org/10.1175/MWR-D-22-0179.1), and [Tsukada et al. (2024)](https://doi.org/10.1029/2023JD040585).
-* Test environment for the [Flow supercomputer system](https://icts.nagoya-u.ac.jp/en/sc/) in Nagoya University
+* Testing environment for the [Flow supercomputer system](https://icts.nagoya-u.ac.jp/en/sc/) in Nagoya University
 
 # How to use
 1. Build SCALE-RM: Compile `scale-rm` and pre/post processor programs by using codes in `scale-rm/`
@@ -37,7 +37,7 @@
 -->
 
 # References
-1. Tsujino, S. and T. Horinouchi, 2025: A feasibility study on improving tropical-cyclone inner-core structure based on data assimilation of inner-core atmospheric motion vectors. _Journal of Geophysical Research: Atmospheres._, **130**, e2025JD043978. https://doi.org/10.1029/2025JD043978, ([preprint](https://doi.org/10.1007/978-3-031-40567-9_19))
+1. Tsujino, S. and T. Horinouchi, 2025: A feasibility study on improving tropical-cyclone inner-core structure based on data assimilation of inner-core atmospheric motion vectors. _Journal of Geophysical Research: Atmospheres._, **130**, e2025JD043978. [https://doi.org/10.1029/2025JD043978](https://doi.org/10.1029/2025JD043978), ([preprint](https://doi.org/10.1007/978-3-031-40567-9_19))
 
 # Cite as
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15101998.svg)](https://doi.org/10.5281/zenodo.15101998)
